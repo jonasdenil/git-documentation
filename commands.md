@@ -1,6 +1,8 @@
-'<cd>' = change directory
-'<cd ..>' = change directory UP
-'<cd documents>' = in current directory, go into directory called ‘Documents'
+**cd>** = change directory
+
+**cd ..** = change directory UP
+
+**cd documents** = in current directory, go into directory called ‘Documents'
 
 ls = showing you a list of stuff inside the current directory
 
