@@ -60,9 +60,9 @@ On this point, the file is committed, but still local (not synced with Github)
 
 **../[filename]** = one directory above select filename
 
-** ../../[filename]** = two directories above
+**../../[filename]** = two directories above
 
-** ~/[filename]** = home folder > filename
+**~/[filename]** = home folder > filename
 
 **cp [source path] [destination path]** = same concept as move 
 
