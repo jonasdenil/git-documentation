@@ -1,4 +1,4 @@
-**cd>** = change directory
+**cd** = change directory
 
 **cd ..** = change directory UP
 
@@ -16,8 +16,7 @@
 
 **git add** =  adds file to branch (not yet committed)
 
-     **git add .** = add all files to branch
-
+**git add .** = add all files to branch
 
 **git commit -m “message”** = commits file and adds a message ex.: “added index.html” 
 
@@ -27,7 +26,7 @@ On this point, the file is committed, but still local (not synced with Github)
 
 **git push** =  pushes any file on the repo to the Github servers 
 
-> git commit (zonder -m?) > press esc :wq (to save and quit the ‘error'
+> git commit (zonder -m)? > press esc :wq (to save and quit the ‘error')
 
 ///////
 
@@ -43,6 +42,8 @@ On this point, the file is committed, but still local (not synced with Github)
 
 > pull requests have to be done through the website
 
+///////
+
 **ctrl + C** = stops current task in terminal
 
 **mkdir [folder name]** = makes directory or folder in current directory
@@ -57,11 +58,11 @@ On this point, the file is committed, but still local (not synced with Github)
 
 **mv [source path] [destination path]** = moves one file/directory to another
 
-         **../[filename]** = one directory above select filename
+**../[filename]** = one directory above select filename
 
-         ** ../../[filename]** = two directories above
+** ../../[filename]** = two directories above
 
-         ** ~/[filename]** = home folder > filename
+** ~/[filename]** = home folder > filename
 
 **cp [source path] [destination path]** = same concept as move 
 
