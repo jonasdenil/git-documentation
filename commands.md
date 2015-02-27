@@ -1,3 +1,6 @@
+##Terminal commands
+
+
 **cd** = change directory
 
 **cd ..** = change directory UP
@@ -6,7 +9,34 @@
 
 **ls** = showing you a list of stuff inside the current directory
 
+**ctrl + C** = stops current task in terminal
+
+**mkdir [folder name]** = makes directory or folder in current directory
+
+**pwd** = personal working directory, shows current directory
+
+**tail** = shows last lines from a file
+
+**nano [filename]** = edits file inside terminal
+
+**rm [file]** = deletes file
+
+**mv [source path] [destination path]** = moves one file/directory to another
+
+**../[filename]** = one directory above select filename
+
+**../../[filename]** = two directories above
+
+**~/[filename]** = home folder > filename
+
+**cp [source path] [destination path]** = same concept as move
+
+
 ///////
+
+
+##Github commands
+
 
 **git** = shows all commands and what they do
 
@@ -30,6 +60,9 @@ On this point, the file is committed, but still local (not synced with Github)
 
 ///////
 
+###Github branches
+
+
 **git branch** = shows you the structure of the branches
 
 **git branch [name]** = copies the master and makes a branch from it
@@ -44,25 +77,5 @@ On this point, the file is committed, but still local (not synced with Github)
 
 ///////
 
-**ctrl + C** = stops current task in terminal
 
-**mkdir [folder name]** = makes directory or folder in current directory
-
-**pwd** = personal working directory, shows current directory
-
-**tail** = shows last lines from a file
-
-**nano [filename]** = edits file inside terminal
-
-**rm [file]** = deletes file
-
-**mv [source path] [destination path]** = moves one file/directory to another
-
-**../[filename]** = one directory above select filename
-
-**../../[filename]** = two directories above
-
-**~/[filename]** = home folder > filename
-
-**cp [source path] [destination path]** = same concept as move 
 
