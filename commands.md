@@ -56,7 +56,7 @@ On this point, the file is committed, but still local (not synced with Github)
 
 **git push** =  pushes any file on the repo to the Github servers 
 
-> git commit (zonder -m)? > press esc :wq (to save and quit the ‘error')
+>git commit (zonder -m)? > press esc :wq (to save and quit the ‘error')
 
 ///////
 
