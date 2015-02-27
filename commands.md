@@ -11,6 +11,8 @@
 
 **ctrl + C** = stops current task in terminal
 
+**touch [filename.extension]** = creates a file 
+
 **mkdir [folder name]** = makes directory or folder in current directory
 
 **pwd** = personal working directory, shows current directory
